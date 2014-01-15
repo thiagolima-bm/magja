@@ -2,3 +2,7 @@ target
 .project
 .settings
 .classpath
+
+*.class
+
+src/test/resources/magento-api.properties.sample
